@@ -7,6 +7,7 @@ namespace ConsoleApp19
         static void Main(string[] args)
         {
             //
+            //
             Subject subject = new Subject();
             subject.CreateExam();
             Console.Clear();
